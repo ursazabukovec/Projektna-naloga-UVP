@@ -1,5 +1,5 @@
 NALOGA
 ======
 
-Nimam ideje kakšno projektno nalogo napisat...
+*Nimam ideje kakšno projektno nalogo napisat...*
 ----------------------------------------------
