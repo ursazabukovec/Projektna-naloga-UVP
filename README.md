@@ -1,5 +1,5 @@
-NALOGA
-======
+NONOGRAMI
+=========
 
-*Nimam ideje kakšno projektno nalogo napisat...*
-----------------------------------------------
+*Projektna naloga pri predmetu Uvod v programiranje.*
+------------------------------------------------------
